@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+.pink { background-color:  rgb(239, 116, 136) ;
+        font-family: Verdana, dejaVu Sans, sans-serif;
+
+
+
+
+}
+
+
+
+
+#IDA { 
+    color: blue ;
+    font-size: 36px;
+
+
+}
+#IDB { background-color: rgb(102, 233, 102);
+        font-size: 24px;
+        font-weight: bold;
+
+}
+.IDC {
+font-size: 24px;
+
+}
