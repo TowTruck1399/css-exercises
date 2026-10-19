@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+.BG { background-color: white;
+    font-size: 28px;
+    font-family: Helvetica, 'times New Roman', sans-serif;
+    text-align:center; }
+.yel {
+    background-color: black; color: white;
+
+}
+.black {background-color:  yellow;}
+.text { color: black;}
